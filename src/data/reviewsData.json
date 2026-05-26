@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Jenkins",
+    "rating": 5,
+    "comment": "The best coffee I've ever had! The ambiance is simply stunning and perfect for my morning reading. Highly recommend the Caramel Macchiato.",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=200"
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "rating": 5,
+    "comment": "Absolutely love the glass aesthetic and the dark theme. The food is equally amazing. The Signature Brunch is a must-try!",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200"
+  },
+  {
+    "id": 3,
+    "name": "Emily Rodriguez",
+    "rating": 4,
+    "comment": "A great place for weekend hangouts. The staff is very friendly and the online reservation system was completely hassle-free.",
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=200"
+  },
+  {
+    "id": 4,
+    "name": "David Smith",
+    "rating": 5,
+    "comment": "The Chocolate Lava Cake is out of this world. Premium ingredients and fantastic presentation. Aroma Cafe never disappoints.",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=200"
+  }
+]

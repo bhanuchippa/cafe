@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Espresso",
+    "description": "Rich, bold, and intense espresso shot made from premium Arabica beans.",
+    "price": 3.50,
+    "ratings": 4.8,
+    "category": "Coffee",
+    "image": "https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": 2,
+    "name": "Caramel Macchiato",
+    "description": "Espresso mixed with vanilla-flavored syrup, milk, and caramel drizzle.",
+    "price": 5.25,
+    "ratings": 4.9,
+    "category": "Coffee",
+    "image": "https://images.unsplash.com/photo-1485808191679-5f86510681a2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": 3,
+    "name": "Iced Matcha Latte",
+    "description": "Premium ceremonial grade matcha blended with cold milk and ice.",
+    "price": 4.75,
+    "ratings": 4.7,
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1536420121565-5e83b38c280e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": 4,
+    "name": "Strawberry Smoothie",
+    "description": "Fresh strawberries blended with Greek yogurt and honey.",
+    "price": 6.00,
+    "ratings": 4.6,
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": 5,
+    "name": "New York Cheesecake",
+    "description": "Classic creamy cheesecake with a graham cracker crust and berry compote.",
+    "price": 7.50,
+    "ratings": 5.0,
+    "category": "Desserts",
+    "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": 6,
+    "name": "Chocolate Lava Cake",
+    "description": "Warm chocolate cake with a molten center, served with vanilla ice cream.",
+    "price": 8.00,
+    "ratings": 4.9,
+    "category": "Desserts",
+    "image": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": 7,
+    "name": "Avocado Toast",
+    "description": "Smashed avocado on artisanal sourdough with cherry tomatoes and microgreens.",
+    "price": 9.50,
+    "ratings": 4.5,
+    "category": "Fast Food",
+    "image": "https://images.unsplash.com/photo-1603048297172-c92544798d5e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": 8,
+    "name": "Truffle Fries",
+    "description": "Crispy french fries tossed with truffle oil, parmesan, and parsley.",
+    "price": 6.50,
+    "ratings": 4.8,
+    "category": "Fast Food",
+    "image": "https://images.unsplash.com/photo-1630431341973-02e1b662ce3b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": 9,
+    "name": "Aroma Signature Brunch",
+    "description": "Poached eggs, smoked salmon, roasted asparagus, and hollandaise sauce.",
+    "price": 14.50,
+    "ratings": 4.9,
+    "category": "Special Dishes",
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": 10,
+    "name": "Grilled Chicken Panini",
+    "description": "Herb-grilled chicken, pesto, mozzarella, and sun-dried tomatoes on ciabatta.",
+    "price": 11.00,
+    "ratings": 4.7,
+    "category": "Special Dishes",
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&q=80&w=800"
+  }
+]
