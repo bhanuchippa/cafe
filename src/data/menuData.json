@@ -3,10 +3,10 @@
     "id": 1,
     "name": "Classic Espresso",
     "description": "Rich, bold, and intense espresso shot made from premium Arabica beans.",
-    "price": 3.50,
+    "price": 3.5,
     "ratings": 4.8,
     "category": "Coffee",
-    "image": "https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?auto=format&fit=crop&q=80&w=800"
+    "image": "/images/dish_1.jpg"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "price": 5.25,
     "ratings": 4.9,
     "category": "Coffee",
-    "image": "https://images.unsplash.com/photo-1485808191679-5f86510681a2?auto=format&fit=crop&q=80&w=800"
+    "image": "/images/dish_2.jpg"
   },
   {
     "id": 3,
@@ -24,69 +24,78 @@
     "price": 4.75,
     "ratings": 4.7,
     "category": "Beverages",
-    "image": "https://images.unsplash.com/photo-1536420121565-5e83b38c280e?auto=format&fit=crop&q=80&w=800"
+    "image": "/images/dish_3.jpg"
   },
   {
     "id": 4,
     "name": "Strawberry Smoothie",
     "description": "Fresh strawberries blended with Greek yogurt and honey.",
-    "price": 6.00,
+    "price": 6,
     "ratings": 4.6,
     "category": "Beverages",
-    "image": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?auto=format&fit=crop&q=80&w=800"
+    "image": "/images/dish_4.jpg"
   },
   {
     "id": 5,
     "name": "New York Cheesecake",
     "description": "Classic creamy cheesecake with a graham cracker crust and berry compote.",
-    "price": 7.50,
-    "ratings": 5.0,
+    "price": 7.5,
+    "ratings": 5,
     "category": "Desserts",
-    "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?auto=format&fit=crop&q=80&w=800"
+    "image": "/images/dish_5.jpg"
   },
   {
     "id": 6,
     "name": "Chocolate Lava Cake",
     "description": "Warm chocolate cake with a molten center, served with vanilla ice cream.",
-    "price": 8.00,
+    "price": 8,
     "ratings": 4.9,
     "category": "Desserts",
-    "image": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?auto=format&fit=crop&q=80&w=800"
+    "image": "/images/dish_6.jpg"
   },
   {
     "id": 7,
     "name": "Avocado Toast",
     "description": "Smashed avocado on artisanal sourdough with cherry tomatoes and microgreens.",
-    "price": 9.50,
+    "price": 9.5,
     "ratings": 4.5,
     "category": "Fast Food",
-    "image": "https://images.unsplash.com/photo-1603048297172-c92544798d5e?auto=format&fit=crop&q=80&w=800"
+    "image": "/images/dish_7.jpg"
   },
   {
     "id": 8,
     "name": "Truffle Fries",
     "description": "Crispy french fries tossed with truffle oil, parmesan, and parsley.",
-    "price": 6.50,
+    "price": 6.5,
     "ratings": 4.8,
     "category": "Fast Food",
-    "image": "https://images.unsplash.com/photo-1630431341973-02e1b662ce3b?auto=format&fit=crop&q=80&w=800"
+    "image": "/images/dish_8.jpg"
   },
   {
     "id": 9,
     "name": "Aroma Signature Brunch",
     "description": "Poached eggs, smoked salmon, roasted asparagus, and hollandaise sauce.",
-    "price": 14.50,
+    "price": 14.5,
     "ratings": 4.9,
     "category": "Special Dishes",
-    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&q=80&w=800"
+    "image": "/images/dish_9.jpg"
   },
   {
     "id": 10,
     "name": "Grilled Chicken Panini",
     "description": "Herb-grilled chicken, pesto, mozzarella, and sun-dried tomatoes on ciabatta.",
-    "price": 11.00,
+    "price": 11,
     "ratings": 4.7,
     "category": "Special Dishes",
-    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&q=80&w=800"
+    "image": "/images/dish_10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Classic Tiramisu",
+    "description": "Traditional Italian dessert with ladyfingers dipped in espresso, layered with mascarpone cream and dusted with cocoa.",
+    "price": 8.5,
+    "ratings": 4.9,
+    "category": "Desserts",
+    "image": "/images/dish_11.jpg"
   }
 ]
